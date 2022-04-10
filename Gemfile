@@ -21,6 +21,15 @@ gem 'devise'
 
 gem 'bootstrap_form'
 
+gem 'rspec-rails'
+gem 'rails-controller-testing'
+gem 'headless'
+gem 'database_cleaner'
+gem 'factory_bot_rails'
+#extras but not using
+gem 'capybara'
+gem 'poltergeist'
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
